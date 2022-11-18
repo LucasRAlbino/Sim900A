@@ -1,8 +1,6 @@
 #include <Arduino.h>
 #include <SoftwareSerial.h>
 
-//Programa para comunicação do ESP32 com o SIM800L
-
 #define RX2 10
 #define TX2 11
 
